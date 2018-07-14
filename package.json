@@ -1,0 +1,21 @@
+{
+  "name": "joni-bot-v4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "assaf",
+  "license": "ISC",
+  "description": "TestBot",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fortnite": "^4.1.1",
+    "ms": "^2.1.1",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5",
+    "simple-youtube-api": "^5.0.2",
+    "superagent": "^3.8.3",
+    "ytdl-core": "^0.20.4"
+  }
+}
